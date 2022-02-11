@@ -1,2 +1,2 @@
 # teste
-projeto de teste desenvolvido em um processo seletivo
+zipado e sem node_modules por que meu git hub nao está funcionando!!!
